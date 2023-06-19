@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "//UYz/+1MiNhO7Nw2p3wj+NrqvZX9mHagNAhYx/fWB/WXLPRVuOeQJ/fmfhIvPMugTXvyWf/bLaC/1V6gyJN0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\Downloads\\1 - Construindo um Sistema para um Estacionamento com C#\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
